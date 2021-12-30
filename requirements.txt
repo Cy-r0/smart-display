@@ -1,0 +1,4 @@
+natsort==8.0.2
+pillow==8.4.0
+# NOTE: tkinter is also a requirement, but it should be installed with apt as below:
+# $ sudo apt install python3-tk
