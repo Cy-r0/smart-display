@@ -151,5 +151,5 @@ class SlideShow(tkinter.Tk):
 
 
 if __name__ == '__main__':
-    ss = SlideShow('/home/luigi/Pictures/labbra-ritagliate')
+    ss = SlideShow('/home/piolu/smart-display/photos/Beautification-out/')
     ss.mainloop()
